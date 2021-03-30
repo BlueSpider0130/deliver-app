@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodDeliveryAppTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodDeliveryAppTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodDeliveryAppTemplate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodDeliveryAppTemplate.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/529058354/FoodDeliveryAppTemplate.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/529058354/FoodDeliveryAppTemplate.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/725656534/FoodDeliveryAppTemplate.react-native-appearance.iml" filepath="$PROJECT_DIR$/.idea/modules/725656534/FoodDeliveryAppTemplate.react-native-appearance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-343343514/FoodDeliveryAppTemplate.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-343343514/FoodDeliveryAppTemplate.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-355755577/FoodDeliveryAppTemplate.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-355755577/FoodDeliveryAppTemplate.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1539553075/FoodDeliveryAppTemplate.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1539553075/FoodDeliveryAppTemplate.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1504624355/FoodDeliveryAppTemplate.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1504624355/FoodDeliveryAppTemplate.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2111247228/FoodDeliveryAppTemplate.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/2111247228/FoodDeliveryAppTemplate.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1885908820/FoodDeliveryAppTemplate.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1885908820/FoodDeliveryAppTemplate.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-673059329/FoodDeliveryAppTemplate.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-673059329/FoodDeliveryAppTemplate.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-354899384/FoodDeliveryAppTemplate.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-354899384/FoodDeliveryAppTemplate.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/533545661/FoodDeliveryAppTemplate.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/533545661/FoodDeliveryAppTemplate.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/35420949/FoodDeliveryAppTemplate.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/35420949/FoodDeliveryAppTemplate.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/936364290/FoodDeliveryAppTemplate.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/936364290/FoodDeliveryAppTemplate.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
